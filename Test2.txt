@@ -1,2 +1,6 @@
 New test file
+<<<<<<< HEAD
 vajraa and mithra file
+=======
+changes made in the file
+>>>>>>> 4c8c58a919ed1e66bf232c8c39df395fa321b1e6
