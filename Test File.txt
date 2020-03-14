@@ -1,2 +1,7 @@
 My name is Lakshmi..Update 2
+<<<<<<< HEAD
+added new
+=======
+hello ... update 3
 vajraa
+>>>>>>> e0e06bd414f93bf1e9253790504b8d3bd627e279
