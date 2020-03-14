@@ -1,3 +1,8 @@
 My name is Lakshmi..Update 2
+<<<<<<< HEAD
 
 my name is sandeep
+=======
+hello ... update 3
+vajraa
+>>>>>>> f9f242a9462e9bb77435db8e58b2d90792a0bbd4
